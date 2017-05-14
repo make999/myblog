@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a small tutorial on how to create a shared secret using OpenSSL API in C++
 
 You can use the [editor on GitHub](https://github.com/make999/myblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
